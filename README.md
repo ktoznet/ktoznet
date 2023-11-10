@@ -1,13 +1,13 @@
 ## Hey 👋, I'm Kirill Bereznev! 
 
 
-<a href="https://github.com/ktoznet" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="[https://github.com/ktoznet](https://t.me/ktoznet)" target="_blank">
+<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F986956%2Ftelegram_icon&psig=AOvVaw3O6w_sqpetOtMHDSu7Daa-&ust=1699670268355000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCUoKizuIIDFQAAAAAdAAAAABAK" />
 </a>
 <a href="https://www.linkedin.com/in/kirill-bereznev-443588296/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/Instagram" target="_blank">
+<a href="https://www.instagram.com/ktoznet/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
