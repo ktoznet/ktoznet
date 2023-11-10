@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!
-Hey! I'm  Android dev who kicked things off with C# Xamarin before diving into the Kotlin world 😄. I've racked up 4 years and 3 months in the tech scene, crafting apps for marketplaces, social networks, and games. I've also sprinkled in 2 years of freelance life, piling up a diverse project portfolio and a solid code skill set 🛠️📱.
+Hey! I'm  Android Engineer who kicked things off with C# Xamarin before diving into the Kotlin world 😄. I've racked up 4 years and 3 months in the tech scene, crafting apps for marketplaces, social networks, and games. I've also sprinkled in 2 years of freelance life, piling up a diverse project portfolio and a solid code skill set 🛠️📱.
 
 
 <br/>  
