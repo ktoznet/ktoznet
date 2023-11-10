@@ -1,6 +1,4 @@
 ## Hey 👋, I'm Kirill Bereznev! 
-
-
 <a href="[https://github.com/ktoznet](https://t.me/ktoznet)" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
