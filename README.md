@@ -35,6 +35,8 @@ Hey! I'm  Android dev who kicked things off with C# Xamarin before diving into t
 
 - ⚡ Fun fact: I'm 21 years old 🎉 and I've worked with a marketplace 🛒, social network 🌐, and game development 🎮 through freelancing, gaining 4 years of experience 💼👾!
 
+- 📫 Как связаться со мной: Telegram [Telegram](https://t.me/ktoznet)
+
 
 </td><td valign="top" width="50%">
 
