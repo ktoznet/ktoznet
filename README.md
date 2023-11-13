@@ -2,7 +2,7 @@
 <a href="https://t.me/ktoznet" target="_blank">
   <img src="https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
 </a>
-<a href="www.linkedin.com/in/ktoznet" target="_blank">
+<a href="[www.linkedin.com/in/ktoznet](https://www.linkedin.com/in/ktoznet/)" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
