@@ -1,12 +1,12 @@
 ## Hey 👋, I'm Kirill Bereznev! 
-<a href="https://kirillbereznev.com/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/86389034?v=4" alt="Website" style="margin-bottom: 5px;" />
+<a href="https://kirillbereznev.com" target="_blank">
+  <img src="https://img.shields.io/badge/Launch%20Portfolio-%F0%9F%9A%80-green?style=for-the-badge" />
 </a>
 </a>  
 
 
 
-
+a
 ### Glad to see you here!
 Hey! I'm  Android Engineer who kicked things off with C# Xamarin before diving into the Kotlin world 😄. I've racked up 4 years and 3 months in the tech scene, crafting apps for marketplaces, social networks, and games. I've also sprinkled in 2 years of freelance life, piling up a diverse project portfolio and a solid code skill set 🛠️📱.
 
