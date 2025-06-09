@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Kirill Bereznev! 
 <a href="https://kirillbereznev.com/" target="_blank">
-  <img src="https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Website" style="margin-bottom: 5px;" />
+  <img src="https://avatars.githubusercontent.com/u/86389034?v=4" alt="Website" style="margin-bottom: 5px;" />
 </a>
 </a>  
 
