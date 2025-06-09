@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Kirill Bereznev! 
-<a href="https://kirillbereznev.com" target="_blank">
+<a href="[https://kirillbereznev.com](https://tapthe.link/jJoycM_qn)" target="_blank">
   <img src="https://img.shields.io/badge/Launch%20Portfolio-%F0%9F%9A%80-green?style=for-the-badge" />
 </a>
 </a>  
